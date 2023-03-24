@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EisenhornE
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning coding again after a year of stagnancy :P
 - 🧑‍🎓 Currently a 4th Year Student of Mapua-Malayan Colleges of Mindanao taking the program of Computer Science
 - Currently working as an Intern for ChatChatABC
