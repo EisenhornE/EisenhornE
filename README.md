@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @EisenhornE
-- 👀 I’m interested in Game Development and Web Development
-- 🧑‍🎓 Currently a 4th Year Student of Mapua-Malayan Colleges of Mindanao taking the program of Computer Science
-- Currently working as an Intern for ChatChatABC
+- 👋 Hi, I’m Carl John Ignacio V. Nicor and I'm from the :philippines:
+- 👀 I’m mainly interested in Game Development, especially in Game Programming but I'm willing to take on different roles in Game Development to learn new skills.
+- Also have experience in Web Development :globe_with_meridians:, using Svelte framework and Astro :rocket: during my internship.
+- 🧑‍🎓 A Computer Science Graduate of Mapua-Malayan Colleges of Mindanao 
+- :briefcase: Currently unemployed but is working on creating projects for my Game Dev portfolio
