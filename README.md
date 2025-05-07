@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Carl John Ignacio V. Nicor and I'm from the :philippines:
-- 👀 I’m mainly interested in Game Development, especially in Game Programming but I'm willing to take on different roles in Game Development to learn new skills.
-- Also have experience in Web Development :globe_with_meridians:, using Svelte framework and Astro :rocket: during my internship.
 - 🧑‍🎓 Computer Science Graduate of Mapua-Malayan Colleges of Mindanao 
-- :briefcase: In training but is working on creating projects for my Game Dev portfolio. 
-- 🎮 Planning to move to using Godot once I get a replacement for my PC. Knows basic Unity Scripting.
+- 👀 I’m interested in scripting in general.
+- :briefcase: Working as a Software Tester
+- 💻 Currently learning in other fields other than Game Dev
+- Mostly playing video games 🎮 right now.
+- 😴 Currently unmotivated learning. Will return at later dates.
